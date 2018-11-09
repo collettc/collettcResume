@@ -1,7 +1,9 @@
 ---
-title: "Index"
-output: html_document
+title: "The Math 425 Notebook"
+output: 
+  html_document:
+    theme: flatly
 ---
 
-[This is a link to test 1](~/Projects/Test1.Rmd)
+This is my website
 
